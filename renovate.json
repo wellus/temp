@@ -1,0 +1,6 @@
+{
+    "extends": ["config:base"],
+    "dependencyDashboard": true,
+    "dependencyDashboardAutoclose": true,
+    "prConcurrentLimit":3
+}
